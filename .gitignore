@@ -1,0 +1,16 @@
+# Packed / cached (never commit game binaries)
+*.pak
+
+# Workbench regenerates this when you open/rebuild the addon
+resourceDatabase.rdb
+
+# OS / IDE
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+
+# Local editor junk (if any)
+.vs/
+.idea/
