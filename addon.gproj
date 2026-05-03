@@ -3,6 +3,20 @@ GameProject {
  GUID "69451851614BF475"
  TITLE "F_Arsenal_Core"
  Dependencies {
-  "58D0FB3206B6F859"
+  "58D0FB3206B6F859" "595F2BF2F44836FB"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }

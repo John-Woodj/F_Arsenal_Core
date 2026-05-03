@@ -1,0 +1,23 @@
+GenericEntity : "{911D6C8DC7BA2D63}Prefabs/Weapons/Core/Rifle_Base.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{5EE3717254A87257}" {
+     AttachmentSlot InventoryStorageSlot optics {
+      Offset -0.0035 -0.0017 0.0462
+     }
+     AttachmentType FORTEX_AttachmentDov9MM "{5EE3717254A875AB}" {
+     }
+    }
+    AttachmentSlotComponent "{5EE4B6E06A50CD02}" {
+     Enabled 0
+     AttachmentSlot InventoryStorageSlot opticPso {
+      Enabled 0
+     }
+    }
+   }
+  }
+ }
+ coords 0 0 -0.037
+}

@@ -1,0 +1,16 @@
+GenericEntity : "{A3E183EB5A2F3A38}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_base.et" {
+ ID "525494E72B1E90FD"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{5472D211BFD78F81}" {
+     Enabled 0
+    }
+    AttachmentSlotComponent "{5F1D4AED30087578}" {
+     AttachmentSlot InventoryStorageSlot slot_akOptics {
+     }
+    }
+   }
+  }
+ }
+}

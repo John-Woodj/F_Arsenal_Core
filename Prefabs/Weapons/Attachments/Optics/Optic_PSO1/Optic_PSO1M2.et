@@ -1,0 +1,15 @@
+GameEntity : "{97B99B20B6545D34}Prefabs/Weapons/Attachments/Optics/Optic_PSO1/Optic_PSO1M2_base.et" {
+ ID "4BA426CBAED42A14"
+ components {
+  InventoryItemComponent "{52627A1F45CD4EB6}" {
+   Attributes SCR_ItemAttributeCollection "{52627A1EBB0698FD}" {
+    CustomAttributes {
+     WeaponAttachmentAttributes "{5284D858FFF9BE66}" {
+      AttachmentType FORTEX_AttachmentDov9MM "{65FB0A08B4F57408}" {
+      }
+     }
+    }
+   }
+  }
+ }
+}
