@@ -1,0 +1,15 @@
+GameEntity : "{17F335BF60DD2550}Prefabs/Characters/Core/Headgear_Base.et" {
+ ID "5112706CD4157AC7"
+ components {
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   Slots {
+    NBS_PatchSlot PatchL {
+     Offset 0.0946 0.1575 -0.0238
+    }
+    NBS_PatchSlot PatchR {
+     Offset -0.0905 0.1577 -0.0209
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,31 @@
+GameEntity : "{8A2B2A544F3ED831}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_PASGT_01_base.et" {
+ ID "50D485E1435D6C72"
+ components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{69477C420D5FB177}" {
+    ItemDisplayName UIInfo "{69477C420D5FB178}" {
+     Name "ACS MM14 Helmet"
+     Description "Standard  helmet in Ukrainian MM14 camo, provide some ballistic protection."
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{69477C420D5FB17D}" {
+      PreviewModel "{01EA5743FC88CC21}Prefabs/Characters/HeadGear/AFU Helmet MM14/F_Helmet_MM14.et"
+     }
+    }
+   }
+  }
+  MeshObject "{5112706CD4157AE0}" {
+   Object "{80802BE0B0D38EC8}Assets/Characters/Headgear/ACH_Ballistic_Helmet/ACH_Ballistic_Helmet_With_Goggles_Cover_Base.xob"
+   Materials {
+    MaterialAssignClass "{69477C420D5FB161}" {
+     SourceMaterial "HelmetUsPasgtWoodland_01"
+     AssignedMaterial "{B547FC59BC429511}Assets/Characters/HeadGear/AFU_Helmet_MM14/data/AFU_Helmet_MM14.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   WornModel "{80802BE0B0D38EC8}Assets/Characters/Headgear/ACH_Ballistic_Helmet/ACH_Ballistic_Helmet_With_Goggles_Cover_Base.xob"
+   ItemModel "{CDBC104213CCFAE8}Assets/Characters/Headgear/ACH_Ballistic_Helmet/ACH_Ballistic_Helmet_With_Goggles_Cover_Center.xob"
+  }
+ }
+}
