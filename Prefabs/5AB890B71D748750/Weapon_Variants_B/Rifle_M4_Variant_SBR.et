@@ -12,6 +12,9 @@ GenericEntity : "{BE9E6FC5049FD769}Prefabs/5AB890B71D748750/Rifle_M4_base.et" {
      components {
       CaseEjectingEffectComponent "{5122AAD190FCA21D}" {
        ParticleEffect "{4584C747A65FBDAA}Particles/Weapon/Casing_545x39/FORTEX_Casing_545x39.ptc"
+       EffectPosition EntitySlotInfo "{5122BA87B56F471A}" {
+        Offset 0.0269 0.006 -0.055
+       }
       }
      }
     }
