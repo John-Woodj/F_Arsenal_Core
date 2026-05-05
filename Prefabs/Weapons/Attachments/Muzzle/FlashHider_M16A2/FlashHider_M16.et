@@ -1,0 +1,11 @@
+GenericEntity : "{5FE287F5F7635058}Prefabs/Weapons/Attachments/Muzzle/FlashHider_M16A2/FlashHider_M16_base.et" {
+ ID "4BA426CBAED42A14"
+ components {
+  SCR_MuzzleEffectComponent "{618AE28AFD0B049C}" {
+   ParticleEffect "{90E54CEDC6BB6D86}Particles/Weapon/Smoke_545x39and762x39/FlashHider_Open/FlashHider_Open_Smoke.ptc"
+   EffectPosition EntitySlotInfo position {
+    Offset 0 0 0.0351
+   }
+  }
+ }
+}

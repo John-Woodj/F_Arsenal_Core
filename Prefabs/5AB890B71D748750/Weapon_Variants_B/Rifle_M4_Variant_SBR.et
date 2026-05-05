@@ -1,0 +1,21 @@
+GenericEntity : "{BE9E6FC5049FD769}Prefabs/5AB890B71D748750/Rifle_M4_base.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponSoundComponent "{5A8685198A9AEEDD}" {
+   Filenames {
+    "{1EB99BDCAFE4FE0E}Sounds/5AB890B71D748750/F_m4Weapons_Rifles_M16A2_Shot.acp" "{A68E9458E7BFDBFF}Sounds/5AB890B71D748750/F_Weapons_Rifles_M16A2_Shot_Suppressed_SuperSonic.acp" "{A6F3D0955462D8FE}Sounds/Weapons/Rifles/M16A2/Weapons_Rifles_M16A2_Handling.acp" "{D8F675F3468362E2}Sounds/Weapons/_SharedData/Weapons_Sights_Actions.acp" "{68E023371FDD3B12}Sounds/Weapons/_SharedData/Drop/Weapons_Drop_Rifle_WoodMetal.acp" "{BFD8C39A140E182E}Sounds/Weapons/_SharedData/Weapon_Bullet_Casings_5_56mm.acp" "{07E8D425196745F4}Sounds/Weapons/_SharedData/PickUp/Weapons_PickUp_Rifle_Plastic.acp" "{332983CC95EE1E1E}Sounds/Weapons/_SharedData/Melee/Weapons_Melee_Rifle.acp" "{10C1421961C34D26}Sounds/Weapons/_SharedData/Weapons_Deployment.acp"
+   }
+  }
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     components {
+      CaseEjectingEffectComponent "{5122AAD190FCA21D}" {
+       ParticleEffect "{4584C747A65FBDAA}Particles/Weapon/Casing_545x39/FORTEX_Casing_545x39.ptc"
+      }
+     }
+    }
+   }
+  }
+ }
+}

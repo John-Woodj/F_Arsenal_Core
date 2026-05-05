@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{5F5B279834D8E3A5}Prefabs/5AB890B71D748750/Weapon_Variants_B/Rifle_M4_Variant_URGI.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

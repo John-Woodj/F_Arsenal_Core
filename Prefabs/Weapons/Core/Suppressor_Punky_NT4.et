@@ -1,0 +1,8 @@
+GenericEntity : "{7CB432CC4ED704E1}Prefabs/Weapons/Core/Suppressor_Generic_556.et" {
+ ID "4BA426CBAED42A14"
+ components {
+  SCR_MuzzleEffectComponent "{618AE28914F3CB8B}" {
+   ParticleEffect "{D5EBEF68F74C85F8}Particles/Weapon/Smoke_545x39and762x39/Suppressor/Suppressor_ALL.ptc"
+  }
+ }
+}
