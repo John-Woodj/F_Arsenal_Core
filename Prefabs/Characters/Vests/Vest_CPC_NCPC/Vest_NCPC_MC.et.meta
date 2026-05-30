@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{731141267C0DFFF3}Prefabs/Characters/Vests/Vest_CPC_NCPC/Vest_NCPC_MC.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

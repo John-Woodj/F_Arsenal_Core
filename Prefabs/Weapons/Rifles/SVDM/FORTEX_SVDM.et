@@ -1,0 +1,18 @@
+GenericEntity : "{A3E183EB5A2F3A38}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_base.et" {
+ ID "525494E72B1E90FD"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    FORTEX_AttachmentSlotComponent "{697B398643B5AA04}" {
+     components {
+      FORTEX_AttachmentSlotComponent "{697CB9CC1206BD0E}" {
+       Enabled 1
+       AttachmentType AttachmentRIS1913Bipod "{697D06502AB39BB5}" {
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}
